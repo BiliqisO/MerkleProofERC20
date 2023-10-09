@@ -1,0 +1,60 @@
+{
+  "root": "96af0c2fae069f9b01f02310bdd93634ed27b162d0ae24db1587a6258e1d01f2",
+  "tree": [
+    {
+      "leaf": "0x49ac76360194e7eb3034deee26b2e080e6588a9c18e4d02580da7ac7fc426877",
+      "proof": [
+        "0xc38db87582dda0be501d2042fb49e20f7a9fc98397ae63a6b46ea3e20ee61616",
+        "0x7423d6d83607b81ac8afcc31122377e2bc6acf0bed2da4e33e06fad8f625020b",
+        "0x47d79263b3efee4f4d9470121dcd87e2c20dbe7025531b813367b8ca7f3cc30a"
+      ]
+    },
+    {
+      "leaf": "0xc38db87582dda0be501d2042fb49e20f7a9fc98397ae63a6b46ea3e20ee61616",
+      "proof": [
+        "0x49ac76360194e7eb3034deee26b2e080e6588a9c18e4d02580da7ac7fc426877",
+        "0x7423d6d83607b81ac8afcc31122377e2bc6acf0bed2da4e33e06fad8f625020b",
+        "0x47d79263b3efee4f4d9470121dcd87e2c20dbe7025531b813367b8ca7f3cc30a"
+      ]
+    },
+    {
+      "leaf": "0x19fcc2a760a4839073ffc679ed43015f99a4d437500ba380ca74bc70cb84f1ac",
+      "proof": [
+        "0xbdf452f086fd98f83059b635f72dbd69b54172fbfb782338977e6a9969cd35e0",
+        "0x9849f287b3ac5be6791af54e7b3fe04d4ce0ea8406df608ad67a437c88eade68",
+        "0x47d79263b3efee4f4d9470121dcd87e2c20dbe7025531b813367b8ca7f3cc30a"
+      ]
+    },
+    {
+      "leaf": "0xbdf452f086fd98f83059b635f72dbd69b54172fbfb782338977e6a9969cd35e0",
+      "proof": [
+        "0x19fcc2a760a4839073ffc679ed43015f99a4d437500ba380ca74bc70cb84f1ac",
+        "0x9849f287b3ac5be6791af54e7b3fe04d4ce0ea8406df608ad67a437c88eade68",
+        "0x47d79263b3efee4f4d9470121dcd87e2c20dbe7025531b813367b8ca7f3cc30a"
+      ]
+    },
+    {
+      "leaf": "0x50af55eb99da9add8e23c952213b6d11e9405577d52ce05b5eb41274ef4ccc03",
+      "proof": [
+        "0x8e61db89f83cf9cea431f50e2997b0e1fa9d95f66d5cfd5327b4c1f177e2a151",
+        "0xe900ee2be90c5bccef4035eee67e476cce10262b3e6e75521082c4fb5d131b6b",
+        "0x88233688a4d292473f61cf86ba3749ddaf7f1d91ace73b32063e10fef64d5bc2"
+      ]
+    },
+    {
+      "leaf": "0x8e61db89f83cf9cea431f50e2997b0e1fa9d95f66d5cfd5327b4c1f177e2a151",
+      "proof": [
+        "0x50af55eb99da9add8e23c952213b6d11e9405577d52ce05b5eb41274ef4ccc03",
+        "0xe900ee2be90c5bccef4035eee67e476cce10262b3e6e75521082c4fb5d131b6b",
+        "0x88233688a4d292473f61cf86ba3749ddaf7f1d91ace73b32063e10fef64d5bc2"
+      ]
+    },
+    {
+      "leaf": "0xe900ee2be90c5bccef4035eee67e476cce10262b3e6e75521082c4fb5d131b6b",
+      "proof": [
+        "0x8d8576221d3ca1be25ff0fb65ebf0d6078fd46d9645a04cd411e7fb929b684cb",
+        "0x88233688a4d292473f61cf86ba3749ddaf7f1d91ace73b32063e10fef64d5bc2"
+      ]
+    }
+  ]
+}
